@@ -1,0 +1,6 @@
+1 $43.50 12/23/2016 01:12:10 The Dark Tower
+2 $23.15 10/05/2014 03:15:10 Lord of the Rings Return of the King
+3 $32.34 05/01/2019 01:20:59 Ender's Game
+4 $21.50 06/07/2019 10:40:59 Clash of Kings
+5 $34.32 09/13/2018 12:12:59 Feast for Crows
+6 $28.50 11/18/2002 07:30:40 Hitchhiker's Guide to the Galaxy
